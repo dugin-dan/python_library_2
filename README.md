@@ -1,4 +1,4 @@
-python_library_2
+Библиотеки Python для Data Science: продолжение
 
 Задача
 
